@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FluentBlue-Theme
+Comment=Light and dark colorful Gtk3.20+ theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Fluent
+MetacityTheme=FluentBlue-Theme
+IconTheme=breeze
+ButtonLayout=:minimize,maximize,close
