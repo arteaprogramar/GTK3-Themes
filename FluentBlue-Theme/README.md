@@ -12,14 +12,27 @@ gsettings set org.gnome.desktop.wm.preferences theme "Fluent"
 
 - Tambien puedes cambiar el tema usando `Gnome Tweaks`
 
-#### Galeria de Temas
+#### Capturas de Pantalla
 
-**_FluentBlue-Theme_**
-![Nautilus](images/FluentBlue/s2.png)
+_Terminal_
+![Terminal](../images/FluentBlue/s1.png)
 
-**_WhiteSur-Theme_**
-![Monitor](images/WhiteSur/s1.png)
+_Nautilus_
+![Nautilus](../images/FluentBlue/s2.png)
 
+_Monitor_
+![Monitor](../images/FluentBlue/s5.png)
+
+
+#### Contribuciones
+
+Este tema no ha sido desarrollado por `Arte al Programar` 
+el autor ha publicado su tema en [https://www.gnome-look.org/](https://www.gnome-look.org/).
+
+
+Post Original: [https://www.gnome-look.org/p/1360682/](https://www.gnome-look.org/p/1360682/)
+
+ ![Monitor](../images/FluentBlue/s6.png)
  
  #### Arte al Programar
  
