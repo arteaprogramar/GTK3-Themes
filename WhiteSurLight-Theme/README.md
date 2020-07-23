@@ -6,8 +6,8 @@ o `~/.themes/` (crear si es necesario).
 - Puedes ejecutar el tema desde la terminal con el siguiente comando
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Fluent"
-gsettings set org.gnome.desktop.wm.preferences theme "Fluent"
+gsettings set org.gnome.desktop.interface gtk-theme "WhiteSur-light"
+gsettings set org.gnome.desktop.wm.preferences theme "WhiteSur-light"
 ```
 
 - Tambien puedes cambiar el tema usando `Gnome Tweaks`
